@@ -1,0 +1,14 @@
+baseURL = "http://hamedyaghoobian.com/"
+languageCode = "en-us"
+title = "Hamed Yaghoobian"
+theme = ["default"]
+googleAnalytics = ""
+#disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  google_fonts = [
+    ["Open Sans", "400;700"],
+    ["Lato", "400"]
+  ]
+  heading_font = "Open Sans"
+  body_font = "Open Sans"

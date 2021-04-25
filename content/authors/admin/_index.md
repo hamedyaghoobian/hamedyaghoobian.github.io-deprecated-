@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hamed Yaghoobian . حامد یعقوبیان
 
 # Is this the primary user of the site?
 superuser: true

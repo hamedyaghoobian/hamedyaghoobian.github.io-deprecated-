@@ -13,9 +13,6 @@ organizations:
 - name: Muhlenberg College
   url: https://www.muhlenberg.edu/
 
-# Short bio (displayed in user profile at end of posts)
-#bio: 
-
 
 # Interests to show in About widget
 interests:
@@ -26,10 +23,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: University of Georgia
     year: 2021
-  - course: BSc in Electrical Engineering
+  - course: B.Sc. in Electrical Engineering
     institution: Azad University, Mashhad Branch
     year: 2011
 

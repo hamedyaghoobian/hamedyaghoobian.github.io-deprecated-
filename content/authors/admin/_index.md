@@ -65,5 +65,3 @@ highlight_name: false
 My research interests are in studying computer-mediated practices in everyday life, textual analytics, and integrating Critical Theory into the field of Computer Science.
 
 I was born and raised in Mashhad, Iran and studied Electrical Engineering before joining UGA. My last name is pronounced /ya-KOO-bee-un/. 
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

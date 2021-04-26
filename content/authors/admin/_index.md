@@ -66,4 +66,4 @@ My research interests are in studying computer-mediated practices in everyday li
 
 I was born and raised in Mashhad, Iran and studied Electrical Engineering before joining UGA. My last name is pronounced /ya-KOO-bee-un/. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

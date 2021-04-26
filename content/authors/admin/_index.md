@@ -62,6 +62,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-My research interests are in studying computer-mediated practices in everyday life, textual analytics, and integrating Critical Theory into the field of Computer Science.
+I am an assistant professor of computer science at Muhlenberg College in Allentown, PA. My research interests are in studying computer-mediated practices in everyday life, textual analytics, and integrating critical theory into the field of computer science. 
 
-I was born and raised in Mashhad, Iran and studied Electrical Engineering before joining UGA. My last name is pronounced /ya-KOO-bee-un/. 
+I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 

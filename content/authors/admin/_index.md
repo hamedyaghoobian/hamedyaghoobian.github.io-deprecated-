@@ -62,8 +62,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am an assistant professor of computer science at Muhlenberg College in Allentown, PA. My research interests are in studying computer-mediated practices in everyday life, textual analytics, and integrating critical theory into the field of computer science. 
+I am an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My research interests are primarily in studying computer-mediated practices in everyday life, textual analytics, and integrating critical theory into the field of computer science. 
 
 I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 
 
-While this website is currently live, I am using my [old website](http://cobweb.cs.uga.edu/~hamed/) at UGA, and will be transfering/updating material here for the fall semester at 'Berg soon. 
+While this website is currently live, I am still using my [old website](http://cobweb.cs.uga.edu/~hamed/) at UGA and will be transferring/updating material at the earliest opportunity. Feel free to get in touch: hy [at] uga [dot] edu

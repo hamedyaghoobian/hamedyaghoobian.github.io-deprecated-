@@ -17,8 +17,9 @@ organizations:
 # Interests to show in About widget
 interests:
 - Textual analysis
-- Computational ethics
+- Computational ethics & methodology
 - Human-computer interaction
+- Philosophy of technology 
 
 # Education to show in About widget
 education:

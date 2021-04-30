@@ -28,7 +28,7 @@ education:
     institution: University of Georgia
     year: 2021
   - course: B.Sc. in Electrical Engineering
-    institution: Azad University, Mashhad Branch
+    institution: Azad University of Mashhad
     year: 2011
 
 # Social/Academic Networking

@@ -17,7 +17,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Textual analysis
-- Computational ethics & methodology
+- Computational ethics & explainable AI
 - Human-computer interaction
 - Philosophy of technology 
 
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hy@uga.edu'
+  link: 'mailto:hamedyaghoobian@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hyaghoobian

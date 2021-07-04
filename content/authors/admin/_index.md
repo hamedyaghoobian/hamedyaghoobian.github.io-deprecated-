@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hamedyaghoobian@gmail.com'
+  link: 'mailto:hamedyaghoobian@muhlenberg.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hyaghoobian
@@ -69,4 +69,4 @@ I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-u
 
 While this website is currently live, I am still using [the old one](http://cobweb.cs.uga.edu/~hamed/) at UGA and will be transferring/updating material here at the earliest opportunity. 
 
-Feel free to get in touch at [hamedyaghoobian@gmail.com](mailto:hamedyaghoobian@gmail.com) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian). 
+Feel free to get in touch at [hamedyaghoobian@gmail.com](mailto:hamedyaghoobian@muhlenberg.com) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian). 

@@ -1,4 +1,6 @@
-# Teaching 
+---
+title: Teaching 
+--
 
 ## Fall 2021
 * CSI 355: Computer Networks

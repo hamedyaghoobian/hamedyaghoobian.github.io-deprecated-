@@ -6,10 +6,11 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 1
+main:
   - name: Teaching
     url: '/teaching'
-    weight: 20
+    weight: 2
 #   - name: Projects
 #     url: '#projects'
 #     weight: 30

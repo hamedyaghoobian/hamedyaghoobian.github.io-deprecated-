@@ -1,21 +1,9 @@
 ---
 title: Teaching 
 cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
----
-
 ---
 
 ## Fall 2021
+* CSI 102: Introduction to Game Programming
 * CSI 355: Computer Networks
-* CSI 102: Computer Science I: Introduction to Game Programming
+

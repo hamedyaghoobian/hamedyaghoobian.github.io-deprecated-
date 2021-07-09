@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hamedyaghoobian@muhlenberg.com'
+  link: 'mailto:hamedyaghoobian@muhlenberg.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hyaghoobian

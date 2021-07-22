@@ -29,6 +29,7 @@ education:
     year: 2021
   - course: B.Sc. in Electrical Engineering
     institution: Azad University of Mashhad
+    
     year: 2011
 
 # Social/Academic Networking
@@ -64,6 +65,7 @@ email: ""
 highlight_name: false
 ---
 Beginning August 2021, I will be an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My research interests are primarily in studying computer-mediated practices in everyday life, and textual analytics. 
+
 I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 
 
 Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian). 

@@ -64,9 +64,6 @@ email: ""
 highlight_name: false
 ---
 Beginning August 2021, I will be an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My research interests are primarily in studying computer-mediated practices in everyday life, and textual analytics. 
-
 I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 
-
-While this website is currently live, I am still using [the old one](http://cobweb.cs.uga.edu/~hamed/) at UGA and will be transferring/updating material here at the earliest opportunity. 
 
 Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian). 

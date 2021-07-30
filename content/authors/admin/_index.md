@@ -64,7 +64,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Beginning August 2021, I will be an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My research interests are primarily in studying computer-mediated practices in everyday life, and textual analytics. 
+I am an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My research interests are primarily in studying computer-mediated practices in everyday life, and textual analytics. 
 
 I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 
 

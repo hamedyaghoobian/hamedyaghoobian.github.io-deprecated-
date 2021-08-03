@@ -68,6 +68,4 @@ I am an Assistant Professor of Computer Science at Muhlenberg College in Allento
 
 I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 
 
-I live in Allentown, PA now. 
-
 Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian). 

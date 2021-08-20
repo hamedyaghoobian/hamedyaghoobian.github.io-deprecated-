@@ -1,5 +1,5 @@
 ---
-title: CS 102: Introductio to Game Programming with Python
+title: CS 102 - Introductio to Game Programming with Python
 share: true
 commentable: true
 editable: false

@@ -67,11 +67,9 @@ I will consider ways in which you may compensate for your absence.
 I try to be quick in responding to emails. However, please allow up to 24 hrs for a reply on workdays.
 
 ## Academic Honesty Policy
-We are required to abide by [Muhlenberg's Academic Integrity Code
-](https://www.muhlenberg.edu/offices/deanofacademiclife/integrity/).
-**tl;dr: If you use other material to support your own, make sure to
-cite the source properly**. If you are unsure as to what constitutes
-plagiarism, please contact me before submitting your assignment.
+We are required to abide by [Muhlenberg's Academic Integrity Code](https://www.muhlenberg.edu/offices/deanofacademiclife/integrity/).
+
+**tl;dr: If you use other material to support your own, make sure to cite the source properly**. If you are unsure as to what constitutes plagiarism, please contact me before submitting your assignment.
 
 ## Laptop & Technology Statement
 

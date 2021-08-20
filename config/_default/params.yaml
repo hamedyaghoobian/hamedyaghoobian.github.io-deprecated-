@@ -97,7 +97,7 @@ show_related:
   event: true
 reading_time: true
 section_pager: false
-docs_section_pager: true
+docs_section_pager: false
 sharing: true
 copyright_license:
   enable: false

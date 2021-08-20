@@ -4,6 +4,6 @@ type: book  # Do not modify.
 toc: false
 ---
 
-{{< cta cta_text="Syllabus in pdf" cta_link="chapter1" >}}
+{{< cta cta_text="Syllabus in pdf <i class="fas fa-arrow-circle-down"></i>" cta_link="chapter1" >}}
 
 

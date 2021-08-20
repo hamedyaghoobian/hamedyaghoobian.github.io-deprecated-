@@ -4,4 +4,4 @@ type: book  # Do not modify.
 toc: false
 ---
 
-{{< cta cta_text="👉 Course Overview" cta_link="overview" >}}
+{{< cta cta_text="Course Overview" cta_link="overview" >}}

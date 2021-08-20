@@ -1,5 +1,5 @@
 ---
-title: MSA 8020 - Data Visualization
+title: CS 102: Introductio to Game Programming with Python
 share: true
 commentable: true
 editable: false
@@ -10,4 +10,4 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Content...

@@ -38,7 +38,7 @@ Upon completion of CSI 102, you will be able to:
 # Textbook
 -   Downey, Allen B. *Think Python: How to Think Like a Computer
     Scientist, 2nd Edition*, Green Tea Press, 2012.
-    [""](https://greenteapress.com/thinkpython/thinkpython.pdf)
+    [<i class="fas fa-download"></i>](https://greenteapress.com/thinkpython/thinkpython.pdf)
 
 # Grading Breakdown
 -   **Lab**: 15%

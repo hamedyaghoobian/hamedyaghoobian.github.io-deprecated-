@@ -3,32 +3,92 @@ title: Syllabus
 linktitle: Syllabus
 type: book
 date: "2019-05-05T00:00:00+01:00"
+icon_pack: fas                               
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-## Goals
+An introduction to Computer Science (CS) through the programming of games. Emphasis is placed on the creation of arcade style games incorporating animation, user interaction, and sound effects. Students learn to use game development, audio, and image manipulation software in
+designing and constructing their games. The course is intended for those with *no prior experience in computer science* but with a desire to hone
+problem solving and computational thinking skills with a focus on game programming.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Learning Objectives
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Upon completion of CSI 102, you will be able to:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+-   use problem-solving methods to develop and implement algorithms
+    using Python,
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+-   implement programs using the tools, abilities and concepts provided
+    by Python -- a widely used, structured programming language,
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+-   use features provided by [Pygame](https://www.pygame.org/) to extend
+    the capabilities of Python,
 
+-   apply methods and algorithms to the basic techniques of game design
+    and implementation,
 
-## Topics
+-   collaborate effectively with colleagues to accomplish specific
+    goals,
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+-   design, code, debug, and document programs using good practices of
+    programming style and structure.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+# Textbook
+-   Downey, Allen B. *Think Python: How to Think Like a Computer
+    Scientist, 2nd Edition*, Green Tea Press, 2012.
+    [""](https://greenteapress.com/thinkpython/thinkpython.pdf)
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+# Grading Breakdown
+-   **Lab**: 15%
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+-   **Homeworks**: 15%
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+-   **Quizzes**: 10%
+
+-   **Exam i**: 20%
+
+-   **Exam ii**: 20%
+
+-   **Final Project**: 20%
+
+# Course Policies
+## Attendance Policy
+> *Showing up is 80 percent of life* --- Woody Allen, via [Marshall
+Brickman](https://quoteinvestigator.com/2013/06/10/showing-up/#note-6553-1)
+
+Attendance is not directly recorded. However, it is counted toward your grade for participation. Missing discussions may affect your projects' quality, papers, and thus your total grade indirectly. I assume you are enrolled because you are interested in the topic and wish to learn.
+Therefore, I assume you will not skip class frivolously. I will work with you to address conflicts and emergencies on a case-by-case basis
+but expect you to attend class. Participation hinges on engaging thoughtfully with the readings and your peers' analysis of them. Please notify me before the scheduled class time if you must miss a class, and
+I will consider ways in which you may compensate for your absence.
+
+## Email Policy
+I try to be quick in responding to emails. However, please allow up to 24 hrs for a reply on workdays.
+
+## Academic Honesty Policy
+We are required to abide by [Muhlenberg's Academic Integrity Code
+](https://www.muhlenberg.edu/offices/deanofacademiclife/integrity/).
+**tl;dr: If you use other material to support your own, make sure to
+cite the source properly**. If you are unsure as to what constitutes
+plagiarism, please contact me before submitting your assignment.
+
+## Laptop & Technology Statement
+
+You will need a computer to do the assignments. We will be using e-devices in different capacities in class. Please make sure to silence your e-devices during the meetings.
+
+## Disabilities Policy
+If you are a student with a disability or health-related issue who needs
+class accommodation, please make sure to complete a multi-faceted
+determination process through the [Office of Disability
+Services](https://www.muhlenberg.edu/offices/disabilities/) prior to the
+development and implementation of accommodations, auxiliary aids, and
+services. Each Accommodation Plan is individually and collaboratively
+developed between the student and the Office of Disability Services. If
+you have not already done so, please contact them.
+
+## Syllabus Policy
+This course syllabus is a general plan for the course; deviations
+announced to the class by the instructor may be necessary.
+
+# Tentative Schedule

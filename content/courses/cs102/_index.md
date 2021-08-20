@@ -1,9 +1,9 @@
 ---
-title: CS 102 
+title: CS 102 - Introduction to Game Programming with Python
 type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+Welcome to the _CS 102_!
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+{{< cta cta_text="👉 Get Started with Course Overview" cta_link="overview" >}}

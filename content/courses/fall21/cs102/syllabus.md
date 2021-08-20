@@ -1,9 +1,11 @@
 ---
 title: Syllabus
+linktitle: Overview
 date: 2021-08-20
 type: book
-weight: 10
+weight: 1
 ---
 
-# Syllabus
+
+Some content...
 

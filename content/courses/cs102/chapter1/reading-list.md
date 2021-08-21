@@ -9,7 +9,7 @@ weight: 2
 ## Five Bi-weekly projects (55%)
 * Assigned on **Wednesdays**. Deadline is the **midnight of the second Wednesday** after the project is assigned.
 * Every project has two parts: a problem set, a programming assignment
-* Late submission will lose 20% for each day of delay.
+* Late submissions lose 20% of the allocated credit for each day of delay.
 * There is a *five-day extension* to use at your discretion over the semester (excluding the final project).
 * You are encouraged to work in group of two. 
 

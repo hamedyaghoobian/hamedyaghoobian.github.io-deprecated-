@@ -13,9 +13,13 @@ weight: 2
 * Late submission will lose 20% for each day of delay.
 * There is a *five-day extension* to use at your discretion over the semester (excluding the final project).
 * You are encouraged to work in group of two. 
+
 ## Two midterms (20%)
+
 ## Final Exam (15%)
+
 ## Participation (10%)
+
 * You are expected to attend every lecture and actively join the class discussions
 * If you have to miss one or more lectures for any reason, please let me know in advance. I'm happy to work with you and direct you to the lecture notes and coursework.
 * Lecture notes will be posted on the course webpage and canvas a few hours after the class.

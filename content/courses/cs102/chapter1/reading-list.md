@@ -1,5 +1,5 @@
 ---
-title: Coursework & Evaluation
+title: Assignments & Evaluation
 linktitle: Coursework
 type: book
 date: "2021-08-20"

@@ -6,7 +6,6 @@ date: "2021-08-20"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-# Assignments & Evaluation
 ## Five Bi-weekly projects (55%)
 * Assigned on **Wednesdays**. Deadline is the **midnight of the second Wednesday** after the project is assigned.
 * Every project has two parts: a problem set, a programming assignment

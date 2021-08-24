@@ -12,4 +12,9 @@ date: "2021-08-23"
 type: book  # Do not modify.
 ---
 
-## What is software? 
+# Week 1 Main Topics
+* Computer Science
+  * Software
+  * Hardware
+  * Programming Languages 
+   

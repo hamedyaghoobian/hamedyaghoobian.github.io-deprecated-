@@ -1,11 +1,15 @@
 ---
-title: Introduction to Computer Science (CS)
-linktitle: Introduction to CS
-type: book
-date: "2021-08-20"
-icon_pack: fas                               
+# Introdcutio to Computer Science
+linktitle: Week 1
+summary: Learning about what computer science as a discipline focuses on, and how it intersects with merely all aspects on our everyday lives. 
+weight: 2
+icon: book-reader
+icon_pack: fas
 
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# Page metadata.
+title: Week 1
+date: "2021-08-23"
+type: book  # Do not modify.
 ---
+
 ## What is software? 

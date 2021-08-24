@@ -12,7 +12,7 @@ date: "2021-08-23"
 type: book  # Do not modify.
 ---
 
-# Week 1 Main Topics
+# Main Topics
 * Computer Science
   * Software
   * Hardware

@@ -1,7 +1,10 @@
 ---
 title: CS 355 - Computer Networks
-titlelink: CS 355
-date: 2021-08-20
-type: book
-weight: 1
+summary: An undergraduate-level introductory course to fundamental concepts of wired and wireless networks.
+type: book  # Do not modify.
+toc: false
 ---
+
+
+
+

@@ -33,18 +33,11 @@ Upon completion of CSI 355, you will be able to:
 ## Textbook
 -   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7/8^{th} Ed. Pearson Education, 2017/2021.[<i class="fas fa-link"></i>]()
 
-## Grading Breakdown
--   **Lab**: 15%
-
--   **Homeworks**: 15%
-
--   **Quizzes**: 10%
-
--   **Exam i**: 20%
-
--   **Exam ii**: 20%
-
--   **Final Project**: 20%
+## Grading Breakdown (See more [here](assignment))
+* Participation (10%)
+* Five Bi-weekly Projects (55%)
+* Two Midterms (20%)
+* Final Exam (15%)
 
 ## Course Policies
 ### Attendance Policy

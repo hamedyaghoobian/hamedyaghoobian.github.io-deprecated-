@@ -31,7 +31,6 @@ Upon completion of CSI 355, you will be able to:
 * Link and Physical Layers
 
 ## Textbook
--   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7/8^{th} Ed. Pearson Education, 2017/2021.[<i class="fas fa-link"></i>]()
 
 ## Grading Breakdown (See more {{< cta_text="More here" cta_link="assignments">}}[here]("assignments"))
 * Participation (10%)

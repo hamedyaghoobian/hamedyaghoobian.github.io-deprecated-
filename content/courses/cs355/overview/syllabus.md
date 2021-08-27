@@ -32,7 +32,7 @@ Upon completion of CSI 355, you will be able to:
 
 ## Textbook
 
-## Grading Breakdown (See more {{< cta_text="More here" cta_link="assignments">}}[here]("assignments"))
+## Grading Breakdown (See more [here]("assignments"))
 * Participation (10%)
 * Five Bi-weekly Projects (55%)
 * Two Midterms (20%)

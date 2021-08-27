@@ -42,7 +42,7 @@ Upon completion of CSI 355, you will be able to:
 * Two Midterms (20%)
 * Final Exam (15%)
 
-| :exclamation:  Refer to [coursework and evaluation]("../assignments") for more info. |
+| :exclamation:  Refer to [coursework and evaluation]("https://hamedyaghoobian.com/courses/cs355/overview/assignments") for more info. |
 |-----------------------------------------|
 
 ## Course Policies

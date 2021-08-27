@@ -30,11 +30,13 @@ Upon completion of CSI 355, you will be able to:
 * Routing and the Network Layer
 * Link and Physical Layers
 
-## Textbook [^1]
+## Textbook
 -   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7 or 8^{th} Ed. Pearson Education, 2017/2021.
-[^1]: Essential parts of the book will be provided on [Canvas](https://muhlenbergcollege.instructure.com/). 
+| :memo:        | Essential parts of the book will be provided on [Canvas](https://muhlenbergcollege.instructure.com/). |
+|---------------|:------------------------------------------------------------------------------------------------------|
 
-## Grading Breakdown (See more {{<"here" cta_link="assignments"))
+
+## Grading Breakdown
 * Participation (10%)
 * Five Bi-weekly Projects (55%)
 * Two Midterms (20%)

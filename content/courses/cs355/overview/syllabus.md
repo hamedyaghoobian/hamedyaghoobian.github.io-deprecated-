@@ -31,9 +31,9 @@ Upon completion of CSI 355, you will be able to:
 * Link and Physical Layers
 
 ## Textbook
--   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7 or 8<sup>th</sup> Ed. Pearson Education, 2017/2021.
-| :memo:        | Essential parts of the book will be provided electronically on [Canvas](https://muhlenbergcollege.instructure.com/). |
-|---------------|:------------------------|
+-   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7/8<sup>th</sup> Ed. Pearson Education, 2017/2021.
+| :memo:        Essential parts of the book will be provided electronically on [Canvas](https://muhlenbergcollege.instructure.com/). |
+|--------------------------------------|
 
 
 ## Grading Breakdown
@@ -41,6 +41,9 @@ Upon completion of CSI 355, you will be able to:
 * Five Bi-weekly Projects (55%)
 * Two Midterms (20%)
 * Final Exam (15%)
+
+| :exclamation:  {{< cta cta_text="Coursework and evaluation" cta_link="assignments" >}} |
+|-----------------------------------------|
 
 ## Course Policies
 ### Attendance Policy

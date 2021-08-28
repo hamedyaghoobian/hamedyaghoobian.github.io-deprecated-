@@ -32,6 +32,7 @@ Upon completion of CSI 355, you will be able to:
 
 ## Textbook
 -   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7/8<sup>th</sup> Ed. Pearson Education, 2017/2021.
+
 | :memo:        Essential parts of the book will be provided electronically on [Canvas](https://muhlenbergcollege.instructure.com/). |
 |--------------------------------------|
 
@@ -61,7 +62,8 @@ I try to be quick in responding to emails. However, please allow up to 24 hrs fo
 #### Academic Honesty Policy
 We are required to abide by [Muhlenberg's Academic Integrity Code](https://www.muhlenberg.edu/offices/deanofacademiclife/integrity/).
 
-TL;DR: **If you use other material to support your own, make sure to cite the source properly**. If you are unsure as to what constitutes plagiarism, please contact me before submitting your assignment.
+| :point_up: If you use other material to support your own, make sure to cite the source properly If you are unsure as to what constitutes plagiarism, please contact me before submitting your assignment. |
+| --------------|
 
 #### Laptop & Technology Statement
 

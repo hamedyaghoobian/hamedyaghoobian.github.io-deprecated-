@@ -5,6 +5,6 @@ type: book  # Do not modify.
 toc: false
 ---
 
-<img src="gaming-logo.png" width="400" height="400">
+<img src="files/images/gaming-logo.png" width="400" height="400">
 
 

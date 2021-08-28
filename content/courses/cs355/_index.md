@@ -5,7 +5,7 @@ type: book  # Do not modify.
 toc: false
 ---
 
-![width:200px](images/network-logo.png)
+![width:200px](network-logo.png)
 
 
 

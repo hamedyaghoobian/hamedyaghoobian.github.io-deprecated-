@@ -35,10 +35,15 @@ Upon completion of CSI 102, you will be able to:
 -   design, code, debug, and document programs using good practices of
     programming style and structure.
 
-## Textbook
+## Textbooks
 -   Downey, Allen B. *Think Python: How to Think Like a Computer
     Scientist, 2nd Edition*, Green Tea Press, 2012.
     [<i class="fas fa-download"></i>](https://greenteapress.com/thinkpython/thinkpython.pdf)
+
+- Gaddis, Tony. *Starting Out with Python*, 3/4th Edition, Pearson, 2015/2018. 
+
+| :memo:        Essential parts of the textbooks that are not available for free will be provided electronically on [Canvas](https://muhlenbergcollege.instructure.com/). |
+|--------------------------------------|
 
 ## Grading Breakdown
 -   **Lab**: 15%
@@ -69,7 +74,8 @@ I try to be quick in responding to emails. However, please allow up to 24 hrs fo
 #### Academic Honesty Policy
 We are required to abide by [Muhlenberg's Academic Integrity Code](https://www.muhlenberg.edu/offices/deanofacademiclife/integrity/).
 
-TL;DR: **If you use other material to support your own, make sure to cite the source properly**. If you are unsure as to what constitutes plagiarism, please contact me before submitting your assignment.
+| :point_up: If you use other material to support your own, make sure to cite the source properly. If you are unsure as to what constitutes plagiarism, please contact me before submitting your assignment. |
+| --------------|
 
 #### Laptop & Technology Statement
 

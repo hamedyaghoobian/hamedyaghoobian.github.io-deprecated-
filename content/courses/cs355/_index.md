@@ -5,7 +5,5 @@ type: book  # Do not modify.
 toc: false
 ---
 
-![](network-logo.png | width=100)
-
-
+<img src="network-logo.png" width="100" height="100">
 

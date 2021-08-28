@@ -10,11 +10,9 @@ main:
   - name: Teaching
     url: 'courses/'
     weight: 20
-    
   - name: Projects:
       -  url: '#projects'
-
-#     weight: 30
+    weight: 30
 #   - name: Talks
 #     url: '#talks'
 #     weight: 40

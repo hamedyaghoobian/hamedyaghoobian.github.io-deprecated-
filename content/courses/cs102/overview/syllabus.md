@@ -8,7 +8,7 @@ icon_pack: fas
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-[PDF <i class="fas fa-arrow-circle-down"></i>](csi102-f21-syllabus-1.pdf)
+[PDF <i class="fas fa-arrow-circle-down"></i>]("csi102-f21-syllabus-1.pdf")
 
 An introduction to Computer Science (CS) through the programming of games. Emphasis is placed on the creation of arcade style games incorporating animation, user interaction, and sound effects. Students learn to use game development, audio, and image manipulation software in
 designing and constructing their games. The course is intended for those with *no prior experience in computer science* but with a desire to hone

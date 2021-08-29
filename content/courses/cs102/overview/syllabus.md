@@ -39,7 +39,7 @@ Upon completion of CSI 102, you will be able to:
 ## Textbooks
 -   Downey, Allen B. *Think Python: How to Think Like a Computer
     Scientist, 2nd Edition*, Green Tea Press, 2012.
-    [<i class="fas fa-arrow-circle-down"></i>](https://greenteapress.com/thinkpython/thinkpython.pdf)
+    [PDF <i class="fas fa-arrow-circle-down"></i>](https://greenteapress.com/thinkpython/thinkpython.pdf)
 
 - Gaddis, Tony. *Starting Out with Python*, 3/4th Edition, Pearson, 2015/2018. 
 

@@ -87,8 +87,8 @@ TypeError: can only concatenate str (not "int") to str
 
 To convert from binary (base-2) to decimal (base-10) we just do the math!
 
-$1*2^7 + 0*2^6 + 0*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0
-= 1*128 + 1*8 + 1*4 + 1*1 = 141$
+$$1*2^7 + 0*2^6 + 0*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0
+= 1*128 + 1*8 + 1*4 + 1*1 = 141$$
 
 
 # Going Back

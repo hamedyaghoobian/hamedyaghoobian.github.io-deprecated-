@@ -7,14 +7,15 @@ icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Week 1
+title: Week 2
 date: "2021-08-23"
 type: book  # Do not modify.
 ---
 
 # Main Topics
-* Computer Science
-  * Software
-  * Hardware
-  * Programming Languages 
-   
+* Python Basics
+  * Variables
+  * Basic Arithmatic
+  * Data Types
+  * Type Conversion
+

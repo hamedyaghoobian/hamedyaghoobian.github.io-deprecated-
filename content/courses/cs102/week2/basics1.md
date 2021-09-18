@@ -53,7 +53,6 @@ weight: 2
 * Variable names are **case sensitive**!
 
 
-
 ## Python Reserved Words (keywords)
 
 * Must be used as defined in the language
@@ -62,17 +61,17 @@ weight: 2
 * entirely lowercase, except for `False`, `None`, and `True`
 * `help("keywords")` in Python interpreter
 
-```
-False	    def	    if	        raise
-None	    del	    import	return
-True        elif    in	        try
-and	    else    is          while
-as          except  lambda	with
-assert      finally nonlocal	yield
-break	    for	    not	
-class	    from    or	
-continue    global  pass
-```
+  ```
+  False	    def	    if	        raise
+  None	    del	    import	return
+  True        elif    in	        try
+  and	    else    is          while
+  as          except  lambda	with
+  assert      finally nonlocal	yield
+  break	    for	    not	
+  class	    from    or	
+  continue    global  pass
+  ```
 
 
 ### Identifiers
@@ -123,14 +122,14 @@ Some operators apply to strings
 * `*` implies **multiple concatenation**
 Python knows when it is dealing with a string or a number and behaves appropriately. 
 
-```console
->>> print('abc' + '123')
-Abc123
-```
-```console
->>> print('Hi' * 5)
-HiHiHiHiHi
-```
+  ```console
+  >>> print('abc' + '123')
+  Abc123
+  ```
+  ```console
+  >>> print('Hi' * 5)
+  HiHiHiHiHi
+  ```
 Let's try `print('Hi'+5)` in Python interpreter and see what happens? What should we do to fix it? 
 
 
@@ -155,11 +154,11 @@ Let's try `print('Hi'+5)` in Python interpreter and see what happens? What shoul
     * Floating point (real number)
     * Complex (real number plus imaginary component)
 
-```console
->>> a = 5
->>> type(a)
-<class 'int'>
-```
+  ```console
+  >>> a = 5
+  >>> type(a)
+  <class 'int'>
+  ```
 We can determine what a variable’s type is by using `type(var)`. Let's try `b = 6.5` and then `c = a + b`. 
 
 

@@ -45,26 +45,26 @@ Variables can also be cast, but the original value is not altered
 # String Conversions
 * You can also use `int()` and `float()` to convert between strings and integers
 
-```console
->>> sval = '123'
->>> type(sval)
-<type 'str'>
-```
+  ```console
+  >>> sval = '123'
+  >>> type(sval)
+  <type 'str'>
+  ```
 
-```console
->>> print(sval+1)
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-TypeError: can only concatenate str (not "int") to str
-```
+  ```console
+  >>> print(sval+1)
+  Traceback (most recent call last):
+    File "<stdin>", line 1, in <module>
+  TypeError: can only concatenate str (not "int") to str
+  ```
 
-```console
->>> ival = int(sval)
->>> type(ival)
-<class 'int'>
->>> print(ival+1)
-124
-```
+  ```console
+  >>> ival = int(sval)
+  >>> type(ival)
+  <class 'int'>
+  >>> print(ival+1)
+  124
+  ```
 
 
 # Data Storage
@@ -119,15 +119,15 @@ $$1*2^7 + 0*2^6 + 0*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0
 
 For this reason, it is a good idea to add notes to your programs to explain in natural language what the program is doing. These notes are called comments, and they start with the # symbol:
 
-```python
-# compute the percentage of the hour that has elapsed
-percentage = (minute * 100) / 60
-```
+  ```python
+  # compute the percentage of the hour that has elapsed
+  percentage = (minute * 100) / 60
+  ```
 
 * Be aware of redundancy while commenting
-```python
-v = 5     # assign 5 to v
-```
+  ```python
+  v = 5     # assign 5 to v
+  ```
 
 
 # Debugging :lady_beetle: 

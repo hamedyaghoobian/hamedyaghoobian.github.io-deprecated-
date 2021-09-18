@@ -7,7 +7,7 @@ date: "2021-08-20"
 weight: 2
 ---
 
-# Program Structure
+## Program Structure
 * Programs are a series of statements (instructions) that the computer executes in sequence, typically **top to bottom**.
 
 * Statements
@@ -18,7 +18,7 @@ weight: 2
     * Swap control of the program between different groupings of instructions (more on functions later)
 
 
-# Variables
+## Variables
 * Stores data in a program
     * Integers
     * Floating points numbers
@@ -30,7 +30,7 @@ weight: 2
     * Helps humans identify variables
     * Represent a slot in memory
 
-# Variable Usage
+## Variable Usage
 * Declaration and Assignment
     * `pop_count = 500`
 
@@ -54,7 +54,7 @@ weight: 2
 
 
 
-# Python Reserved Words (keywords)
+## Python Reserved Words (keywords)
 
 * Must be used as defined in the language
 * Cannot be used as identifiers
@@ -75,7 +75,7 @@ continue    global  pass
 ```
 
 
-## Identifiers
+### Identifiers
 
 Are the following valid identifiers?
 * `distance`
@@ -91,7 +91,7 @@ Are the following valid identifiers?
 * `server`
 
 
-# Arithmetic
+## Arithmetic
 
 Numeric Expressions | Operations 
 :---:        |    :----:
@@ -104,7 +104,7 @@ $**$  | exponentiation
 
 
 
-## Precedence Rules
+### Precedence Rules
 Follows basic PEMDAS/BODMAS rules
 1. $()$
 2. $**$
@@ -117,7 +117,7 @@ Let's try this with `a=1` `x=3` `y=5`:
 `z = a + ((x*-y / 5)**2)`
 
 
-# String Operations
+## String Operations
 Some operators apply to strings
 * `+` implies **concatenation**
 * `*` implies **multiple concatenation**
@@ -135,7 +135,7 @@ Let's try `print('Hi'+5)` in Python interpreter and see what happens? What shoul
 
 
 
-# Data Types
+## Data Types
 * Data can come in many forms
     * Numbers, text, complex representations
 
@@ -149,7 +149,7 @@ Let's try `print('Hi'+5)` in Python interpreter and see what happens? What shoul
     * Binary: byte, byte array
 
 
-# Numeric Variables
+## Numeric Variables
 * Python determines a numeric variable's type on the fly
     * Integer (whole number)
     * Floating point (real number)
@@ -163,7 +163,7 @@ Let's try `print('Hi'+5)` in Python interpreter and see what happens? What shoul
 We can determine what a variable’s type is by using `type(var)`. Let's try `b = 6.5` and then `c = a + b`. 
 
 
-# Text Variables
+## Text Variables
 * Text data is stored as a string, i.e. a sequence of characters
     * Letters, digits, punctuation, spaces, emojis, other symbols, etc.
 
@@ -187,7 +187,7 @@ Escaped Character | Result
 `\t`   | Tab
 
 
-# Boolean Variables
+## Boolean Variables
 * Sometimes it is helpful to store whether a situation is true or false
     * Does the player have an item?
     * Can the player enter the next area?

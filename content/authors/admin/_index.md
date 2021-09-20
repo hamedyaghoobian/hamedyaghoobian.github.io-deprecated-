@@ -70,5 +70,5 @@ I was born and raised in Mashhad, Iran, and currently live in Allentown with my 
 
 My last name is pronounced /ya-KOO-bee-un/. 
 
-Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian) or stop by my office at the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15), room 143 to have a chat. 
+Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or stop by my office at the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15), room 143 to have a chat. 
 

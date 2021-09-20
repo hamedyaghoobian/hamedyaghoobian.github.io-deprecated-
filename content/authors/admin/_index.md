@@ -64,8 +64,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My research interests are primarily in studying computer-mediated practices in everyday life, and textual analytics. 
+I am an Assistant Professor of Computer Science at Muhlenberg College in Allentown, PA. My teaching and research interests lie in the interstices of Natural Language Processing and Human-Computer Interaction, primarily focusing on computer-mediated practices in everyday life. 
 
-I was born and raised in Mashhad, Iran. My last name is pronounced /ya-KOO-bee-un/. 
+I was born and raised in Mashhad, Iran, and currently live in Allentown with my wife, Zohreh. 
 
-Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian). 
+My last name is pronounced /ya-KOO-bee-un/. 
+
+Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or DM me [@hyaghoobian](https://twitter.com/hyaghoobian) or stop by my office at the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15), room 143 to have a chat. 
+

@@ -1,5 +1,5 @@
 ---
-# Note from Chapter 1 of KR's Computer Networking
+# Note from Chapter 1
 linktitle: Note 1
 summary:  
 weight: 3

@@ -1,5 +1,5 @@
 ---
-title: Iterations in Python
+title: Loops & Iterations in Python
 linktitle: Loops
 type: book
 date: "2021-08-20"

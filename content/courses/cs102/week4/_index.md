@@ -1,6 +1,6 @@
 ---
 # Loops and Iterations
-linktitle: Loops & Iterations
+linktitle: Week 4
 summary:  
 weight: 4
 icon: book-reader

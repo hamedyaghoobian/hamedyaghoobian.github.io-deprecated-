@@ -1,5 +1,5 @@
 ---
-# Introdcutio to Computer Science
+# Conditionals
 linktitle: Week 3
 summary:  
 weight: 3

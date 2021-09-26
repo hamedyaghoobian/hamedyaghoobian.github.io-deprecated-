@@ -17,9 +17,7 @@ There is nothing probably more intensely connected, more distant, compulsory, an
 
 Upon completion of CSI 355, you will be able to:
 * make sense of how the Internet and computer networks work.
-* translate your insights into sustained intellectual discussion and lucid analytical prose,
-* think critically about technology by comparing ethical frameworks and social criticism,
-* examine how technology interferes with diversity and the power dynamics of race, class, gender, health status and etc.
+
 
 
 ## Topics

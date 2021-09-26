@@ -1,5 +1,5 @@
 ---
-# Note from Chapter 1 of [Computer Networking](http://gaia.cs.umass.edu/kurose_ross/index.php)
+# Note from Chapter 1 of KR's Computer Networking
 linktitle: Note 1
 summary:  
 weight: 3

@@ -8,7 +8,6 @@ icon_pack: fas
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-[PDF <i class="fas fa-arrow-circle-down"></i>](https://github.com/hamedyaghoobian/hamedyaghoobian.github.io/blob/111e3725f3c6e27e0baedcf4981f5d15d98c0a6f/content/courses/cs355/overview/csi355-f21-syllabus.pdf)
 
 There is nothing probably more intensely connected, more distant, compulsory, and more strategically organized than a computer network. This course serves as an introduction to fundamental concepts of computer networks and widely used networking technologies. Topics include application protocol design, principles of congestion and error control protocols, network routing, local, wireless, and access networks, network security, and networking programming. We will utilize programming and written assignments toward maximizing engagement with networking concepts. 
 

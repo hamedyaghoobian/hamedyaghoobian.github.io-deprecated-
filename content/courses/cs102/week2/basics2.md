@@ -7,7 +7,7 @@ date: "2021-08-20"
 weight: 2
 ---
 
-## :buzz: Some Data Types in Python
+## Some Data Types in Python :zap:
 
 * Integer  (`0`, `12`, `5`, `-5`)
 * Float (`4.5`, `3.99`, `0.1`)

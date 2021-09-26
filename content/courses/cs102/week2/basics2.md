@@ -7,7 +7,7 @@ date: "2021-08-20"
 weight: 2
 ---
 
-# :bell: Some Data Types in Python
+## :buzz: Some Data Types in Python
 
 * Integer  (`0`, `12`, `5`, `-5`)
 * Float (`4.5`, `3.99`, `0.1`)
@@ -19,7 +19,7 @@ weight: 2
 :pencil: In Python variables are *dynamically* typed. In some languages you have to explicitly declare the type. 
 
 
-# Type Conversion
+## Type Conversion
 * Data may not always be stored in the form we want
     * `input()` always returns string data
     * Diving two integers but want a floating point result
@@ -31,7 +31,7 @@ weight: 2
     * Explicitly (also called Type Casting)
 
 
-## Explicit Conversion (Type Casting)
+### Explicit Conversion (Type Casting)
 Type Casting allows for the dynamic conversion of data to a specified type, if possible!
 * `int(“5”)`
 * `float(input("Please enter your weight in lbs:"))`
@@ -42,7 +42,7 @@ Variables can also be cast, but the original value is not altered
 * `var = "5"`
 * `var2 = int(var)`
 
-# String Conversions
+## String Conversions
 * You can also use `int()` and `float()` to convert between strings and integers
 
   ```console
@@ -67,7 +67,7 @@ Variables can also be cast, but the original value is not altered
   ```
 
 
-# Data Storage
+## Data Storage
 * Computers do not store integers, floats, text as actual symbols
 
 * Data is stored in a binary format (0/1)
@@ -77,7 +77,7 @@ Variables can also be cast, but the original value is not altered
     * 1024 kilobytes make a megabyte
 
 
-# Binary Formula
+## Binary Formula
 * Each position in the binary string represents some power of 2
     * Similar to powers of 10 in decimal
 
@@ -87,11 +87,11 @@ Variables can also be cast, but the original value is not altered
 
 To convert from binary (base-2) to decimal (base-10) we just do the math!
 
-$$1*2^7 + 0*2^6 + 0*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0
-= 1*128 + 1*8 + 1*4 + 1*1 = 141$$
+$1\times2^7 + 0\times2^6 + 0\times2^5 + 0\times2^4 + 1\times2^3 + 1\times2^2 + 0\times2^1 + 1\times2^0
+= 1\times128 + 1\times8 + 1\times4 + 1\times1 = 141$
 
 
-# Going Back
+## Going Back
 * To convert decimal to binary:
     * repeatedly divide by two until the result is 0  and store the remainder from division.
 
@@ -109,12 +109,12 @@ $$1*2^7 + 0*2^6 + 0*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0
 * Now you try **182**.
 ---
 
-# ASCII Table
+## ASCII Table
 ![](ascii_table_lge.png)
 
 
 
-# Comments
+## Comments
 * Formal languages are dense, and it is often difficult to look at a piece of code and figure out what it is doing, or why.
 
 For this reason, it is a good idea to add notes to your programs to explain in natural language what the program is doing. These notes are called comments, and they start with the # symbol:
@@ -130,14 +130,14 @@ For this reason, it is a good idea to add notes to your programs to explain in n
   ```
 
 
-# Debugging :lady_beetle: 
+## Debugging :lady_beetle: 
 * **Syntax error** refers to the structure of a program and the rules about that structure. For example, `8)` is a `syntax error`. If there is a syntax error anywhere in your program, Python displays an error message and quits, and you will not be able to run the program.
 
 * **Runtime error** does not appear until after the program has started running. These errors are also called *exceptions* because they usually indicate that something exceptional (and bad) has happened. They're rare in simple programs.
 
 * **Semantic error** is related to meaning. If there is a semantic error in your program, it will run without generating error messages, but it will not do the right thing. It will do something else. 
 
-# Exercises :snake:
+## Exercises 💻
 
 * Let's make errors on purpose to see what goes wrong
 

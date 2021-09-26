@@ -1,13 +1,13 @@
 ---
 # Loops
-linktitle: Week 4
+linktitle: Loops & Iterations
 summary:  
 weight: 4
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Week 4
+title: Loops
 date: "2021-09-15"
 type: book  # Do not modify.
 ---

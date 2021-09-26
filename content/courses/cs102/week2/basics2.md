@@ -70,7 +70,7 @@ Variables can also be cast, but the original value is not altered
 ## Data Storage
 * Computers do not store integers, floats, text as actual symbols
 
-* Data is stored in a binary format (0/1)
+* Data is stored in a binary format (`0`/`1`)
     * A single 0 or 1 is a bit
     * A series of eight bits make a byte
     * 1024 bytes make a kilobyte
@@ -87,8 +87,7 @@ Variables can also be cast, but the original value is not altered
 
 To convert from binary (base-2) to decimal (base-10) we just do the math!
 
-$1\times2^7 + 0\times2^6 + 0\times2^5 + 0\times2^4 + 1\times2^3 + 1\times2^2 + 0\times2^1 + 1\times2^0
-= 1\times128 + 1\times8 + 1\times4 + 1\times1 = 141$
+$1\times2^7 + 0\times2^6 + 0\times2^5 + 0\times2^4 + 1\times2^3 + 1\times2^2 + 0\times2^1 + 1\times2^0 = 1\times128 + 1\times8 + 1\times4 + 1\times1 = 141$
 
 
 ## Going Back

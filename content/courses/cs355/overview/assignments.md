@@ -6,7 +6,7 @@ date: "2021-08-20"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-## Grading Breakdown {#grading-breakdown .unnumbered}
+## Grading Breakdown
 -   Homeworks (20%)
 -   Projects (25%)
     -   Wireshark Labs (10%)

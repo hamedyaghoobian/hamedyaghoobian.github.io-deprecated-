@@ -15,18 +15,18 @@ There is nothing probably more intensely connected, more distant, compulsory, an
 ## Learning Objectives
 
 Upon completion of CSI 355, you will be able to:
-* make sense of how the Internet and computer networks work.
-
+-   Make sense of how the Internet and computer networks work.
+-   Understand and describe the layered protocol model.
+-   Describe, analyse and evaluate a number of datalink, network, and
+    transport layer protocols.
 
 
 ## Topics
-* Basic Concepts
-* Networking Fundamentals
-* Application Protocol Design and Implementation
-* Network Security
-* Principles of Reliable Transport - Transport Layer
-* Routing and the Network Layer
-* Link and Physical Layers
+-   A Bit of History and Basic Concepts of Networks
+-   Networking Fundamentals
+-   Network Applications, HTTP, FTP
+-   TCP and UDP
+-   Forwarding Routing
 
 ## Textbook
 -   **K**urose, J., **R**oss, K., *Computer networking: A top-down approach featuring the internet*, 7/8<sup>th</sup> Ed. Pearson Education, 2017/2021.

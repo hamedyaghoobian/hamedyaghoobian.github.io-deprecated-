@@ -36,10 +36,6 @@ Upon completion of CSI 355, you will be able to:
 
 
 ## Grading Breakdown
-* Participation (10%)
-* Five Bi-weekly Projects (55%)
-* Two Midterms (20%)
-* Final Exam (15%)
 
 | :exclamation:  Refer to [coursework and evaluation](https://hamedyaghoobian.com/courses/cs355/overview/assignments) for more info. |
 |-----------------------------------------|

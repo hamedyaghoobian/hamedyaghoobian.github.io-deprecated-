@@ -1,4 +1,4 @@
 ---
-title: Spring 2022
+title: 2022-2023
 toc: false
 ---

@@ -11,5 +11,5 @@ date: "2021-08-20"
 type: book  # Do not modify.
 ---
 
-{{< cta cta_text="👉 Start with the Syllabus" cta_link="syllabus" >}}
+{{< cta cta_text="Start with the Syllabus" cta_link="syllabus" >}}
 

@@ -4,7 +4,6 @@ toc: false
 share: false
 ---
 
-## Courses
 ### Fall 2022
 * #### Sustanable Web Development
 * #### Introduction to Game Programming with Python

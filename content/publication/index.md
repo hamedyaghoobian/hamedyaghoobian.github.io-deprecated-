@@ -1,6 +1,7 @@
 ---
 title: Publications
-cms_exclude: true
+<!-- cms_exclude: true -->
+toc: false
 share: fasle
 ---
 

@@ -68,5 +68,5 @@ I am an Assistant Professor of Computer Science at Muhlenberg College. My teachi
 
 I was born and raised in Mashhad, Iran, and currently live in Allentown, PA, with my wife, [Zohreh](https://www.zohrehgaldizadeh.net/). 
 
-Feel free to get in touch at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or stop by my office in the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15), room 143 to have a chat. 
+Feel free to reach me at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or by stopping by my office in the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15) 143 to have a chat. 
 

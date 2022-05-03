@@ -4,15 +4,17 @@ toc: false
 share: false
 ---
 
+### Spring 2023
+* Human-computer Interactions (Special Topics)
+* Introduction to Game Programming with Python
+* Computer Organization
+
 ### Fall 2022
 * Sustainable Web Development (Special Topics)
 * Introduction to Game Programming with Python
 
-### Summer 2022
-* Introduction to Data Analysis
-
 ### Spring 2022
-* Computer Organizaation
+* Computer Organization
 * Introduction to Game Programming with Python
 
 ### Fall 2021

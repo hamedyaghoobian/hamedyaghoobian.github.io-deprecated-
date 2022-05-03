@@ -10,7 +10,7 @@ main:
   - name: Teaching
     url: 'courses/'
     weight: 20
-  - name: Selected Work
+  - name: Selected Writings
     url: 'publication/'
     weight: 30  
 #   - name: Talks

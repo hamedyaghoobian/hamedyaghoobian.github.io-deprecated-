@@ -5,7 +5,7 @@ share: false
 ---
 
 ### Spring 2023
-* Human-computer Interaction (Special Topics)
+* Human-Computer Interaction (Special Topics)
 * Introduction to Game Programming with Python
 * Computer Organization
 

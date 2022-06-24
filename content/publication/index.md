@@ -1,5 +1,5 @@
 ---
-title: Writings and Talks
+title: Publications and Presentations
 toc: false
 share: false
 ---

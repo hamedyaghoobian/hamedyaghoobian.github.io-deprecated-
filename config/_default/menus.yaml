@@ -16,9 +16,9 @@ main:
   - name: News
     url: 'news/'
     weight: 40
-#   - name: Publications
-#     url: '#featured'
-#     weight: 50
+  - name: Research
+    url: 'posts/'
+    weight: 50
 #   - name: Calender
 #     url: '#contact'
 #     weight: 30

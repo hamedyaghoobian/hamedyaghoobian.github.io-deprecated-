@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Lab
 cms_exclude: true
 
 # View.

@@ -13,6 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-Interested Muhlenberg students who are curious about research in the areas of natural language processing (NLP), and human-computer interaction (HCI) are welcome to contact me. It is not necessary for you to be a CS major, but solid programming skills (mostly Python) are required. 
+_Muhlenberg students interested in research in the areas of Natural Language Processing (NLP), and Human-computer Interaction (HCI) are encouraged to contact me. Solid programming skills (mostly in Python) are required; familiarity with machine learning and artificial intelligence models is preferred._
 
 

@@ -1,8 +1,13 @@
 
 ---
 title: A Peek Into Correspondences of Walter Benjamin Using BERT
+toc: false
 share: false
 ---
+
+
+
+
 
 Note: _This research was conducted over a span of 4 weeks in Summer 2022 with Muhlenberg undergraduate student researcher, Christian Johansson._
 

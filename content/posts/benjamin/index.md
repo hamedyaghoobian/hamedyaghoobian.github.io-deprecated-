@@ -20,6 +20,8 @@ We first constructed a tabular dataset of his letters to various correspondents,
 
 
 
+# Results
 
+![ALT Img](emotions_year_dist.png)
 
 

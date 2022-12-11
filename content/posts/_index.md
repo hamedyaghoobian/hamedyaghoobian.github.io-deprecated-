@@ -13,6 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-_Muhlenberg students interested in research in the areas of Natural Language Processing (NLP), or Human-computer Interaction (HCI) are encouraged to contact me for **Independent Study**, **Summer Research Assistant**. Solid programming skills (mostly in Python) are required; familiarity with machine learning and artificial intelligence models is preferred._
+_Muhlenberg students interested in research in the areas of Natural Language Processing (NLP), or Human-computer Interaction (HCI) are encouraged to contact me for **Independent Study** and/or **Summer Research Assistant**. For quantitative research, solid programming skills (mostly Python) are required; familiarity with machine learning and artificial intelligence models is preferred._
 
 

@@ -17,3 +17,7 @@ First, a tabular dataset of the letters to various correspondents with various a
 
 
 ![Recipients Emotion Distibution Across Letters](recipients_emotion_dist.png "Recipients Emotion Distibution Across Letters")
+
+
+
+{{< figure src="./recipients_emotion_dist.png" caption="Recipients Emotion Distibution Across Letters" theme="light" >}}

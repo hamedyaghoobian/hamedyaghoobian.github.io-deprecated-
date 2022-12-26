@@ -10,7 +10,7 @@ share: false
 * Computer Organization
 
 ### Fall 2022
-* Sustainable Web Development (Special Topics)
+* Web Development
 * Introduction to Game Programming with Python
 
 ### Spring 2022

@@ -20,4 +20,4 @@ First, a tabular dataset of the letters to various correspondents with various a
 
 
 
-{{< figure src="./recipients_emotion_dist.png" caption="Recipients Emotion Distibution Across Letters" theme="light" >}}
+{{< figure src="recipients_emotion_dist.png" caption="Recipients Emotion Distibution Across Letters" theme="light" >}}

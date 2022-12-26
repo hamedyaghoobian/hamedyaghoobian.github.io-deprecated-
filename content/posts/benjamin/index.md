@@ -16,4 +16,4 @@ First, a tabular dataset of the letters to various correspondents with various a
 # Results
 
 
-[Recipients Emotion Distibution Across Letters](recipients_emotion_dist.png "Recipients Emotion Distibution Across Letters")
+![Recipients Emotion Distibution Across Letters](recipients_emotion_dist.png "Recipients Emotion Distibution Across Letters")

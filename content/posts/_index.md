@@ -20,7 +20,7 @@ Our research areas include:
 
 * NLP for text classification, sentiment analysis, and language modeling
 * Conversational agents
-* Justice-centered design and evaluation of AI systems
+* Human-centered design and evaluation of AI systems
 * Ethical considerations and philosophical issues related to AI and technology
 
 This stream of research involves quantitative analysis and requires strong programming skills, particularly in Python. Familiarity with machine learning and artificial intelligence models is also preferred. Students who are interested in joining HINT Lab should be motivated, independent, and eager to learn.

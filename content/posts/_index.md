@@ -14,20 +14,16 @@ header:
   image: ""
 ---
 
-## About HINT Lab
+The HINT (Human-Interaction and Technology) Lab is a small research group at Muhlenberg focused on Natural Language Processing (NLP) and Human-AI Interaction (HAII). The mission is to conduct innovative research that advances the understanding of human interactions with technology and explores the potential of AI to enhance human experience.
 
-The HINT (Human-Interaction and Technology) Lab is a research group focused on Natural Language Processing (NLP) and Human-AI Interaction (HAII). Our goal is to explore innovative solutions to real-world problems through cutting-edge research in these fields.
+Our research areas include:
 
-## Research Opportunities
+* NLP for text classification, sentiment analysis, and language modeling
+* Conversational agents
+* Justice-centered design and evaluation of AI systems
+* Ethical considerations and philosophical issues related to AI and technology
 
-If you are a Muhlenberg student interested in conducting research in the areas of NLP or HAII, we welcome you to join us at HINT Lab. We offer opportunities for Independent Study and/or Summer Research Assistant positions, and we encourage you to contact us to learn more.
+This stream of research involves quantitative analysis and requires strong programming skills, particularly in Python. Familiarity with machine learning and artificial intelligence models is also preferred. Students who are interested in joining HINT Lab should be motivated, independent, and eager to learn.
 
-## Requirements
-
-Our research involves quantitative analysis and requires strong programming skills, particularly in Python. Familiarity with machine learning and artificial intelligence models is also preferred.
-
-## Join Us
-
-If you are enthusiastic about these areas of research and have a passion for exploring innovative solutions to real-world problems, we would love to hear from you. Join us at HINT Lab and be a part of cutting-edge research in the field of NLP and HAII!
-
+If you are a Muhlenberg student who is passionate about exploring the potential of AI and technology to enhance human experience, I invite you to join us at HINT Lab. You will have the opportunity to work on projects, develop critical research skills, and contribute to research in the field of NLP and HAII. Contact me to learn more about our research opportunities and how to get involved.
 

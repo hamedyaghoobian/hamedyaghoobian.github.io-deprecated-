@@ -1,5 +1,5 @@
 ---
-title: HINT Lab
+title: PhilosAI Lab
 cms_exclude: true
 
 # View.
@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-The HINT (Human-Interaction and Technology) Lab is a small research group at Muhlenberg focused on Natural Language Processing (NLP) and Human-AI Interaction (HAII). The mission is to conduct innovative research that advances the understanding of human interactions with technology and explores the potential of AI to enhance human experience.
+The PhilosAI Lab is a small research group at Muhlenberg focused on Natural Language Processing (NLP) and Human-AI Interaction (HAII). The mission is to conduct innovative research that advances the understanding of human interactions with technology and explores the potential of AI to enhance human experience.
 
 Our research areas include:
 

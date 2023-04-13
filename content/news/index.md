@@ -3,7 +3,7 @@ title: News
 toc: false
 share: false
 ---
-* 03/2023: Organizing an open panel “_Configuring the (w)hole: Algorithmic Systems, Endangered Ecologies, and Human Interconnectedness_” at the 2023 *[Society for the Social Studies of Science (4S)](https://4sonline.org/)* Meeting in Honolulu in November.
+* 03/2023: Organizing an open panel “_[Configuring the (w)hole: Algorithmic Systems, Endangered Ecologies, and Human Interconnectedness](https://4sonline.org/news_manager.php?page=31538)_” at the 2023 *[Society for the Social Studies of Science (4S)](https://4sonline.org/)* Meeting in Honolulu in November.
 * 08/2022: Giving a talk on _AI and Democratization of Art_ in at the [Dana Forum](https://www.muhlenberg.edu/academics/dana-scholars/introduction/) on October 17, 2022. 
 * 06/2022: Presenting an article on _Phenemenology of Generative/Predictive Word Processing_ at [Oxford Connected Life 2022
 Conference](http://connectedlife.oii.ox.ac.uk/). 

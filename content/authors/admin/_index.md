@@ -43,15 +43,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hyaghoobian
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@postgrammar
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=5Ax8m6sAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
   link: https://github.com/hamedyaghoobian
-- icon: mastodon
-  icon_pack: fab
-  link: <a rel="me" href="https://mastodon.social/@postgrammar">Mastodon</a>
 
 
 # Link to a PDF of your resume/CV.
@@ -67,9 +67,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am an Assistant Professor of Computer Science at Muhlenberg College. My teaching and research interests lie in the interstices of Natural Language Processing and Human-Computer Interaction, primarily focusing on computer-mediated practices in everyday life. My last name is pronounced /ya-KOO-bee-un/. 
+I am an Assistant Professor of Computer Science at Muhlenberg College. My teaching and research interests lie in the interstices of Natural Language Processing and Human-Computer Interaction, primarily focusing on computer- and AI-mediated practices in everyday life. My last name is pronounced /ya-KOO-bee-un/. 
 
-I was born and raised in Mashhad, Iran, and currently live in Allentown, PA, with my wife, [Zohreh](https://www.zohrehgaldizadeh.net/). 
+I was born and raised in Mashhad, Iran, and currently live in Allentown, PA, with my wife. 
 
 Feel free to reach me at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or by stopping by my office in the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15) 143 to have a chat. 
 
+I'm shifting my primary social media presence from Twitter to Mastodon, in line with the evolving digital landscape. Join me on <a rel="me" href="https://mastodon.social/@postgrammar">Mastodon</a> for updates.

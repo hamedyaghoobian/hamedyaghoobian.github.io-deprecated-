@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hamedyaghoobian
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@postgrammar
 
 
 # Link to a PDF of your resume/CV.

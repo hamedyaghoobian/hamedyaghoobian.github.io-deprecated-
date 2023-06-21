@@ -46,8 +46,8 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@postgrammar
-- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=5Ax8m6sAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab

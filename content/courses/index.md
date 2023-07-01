@@ -4,6 +4,10 @@ toc: false
 share: false
 ---
 
+## Fall 2023
+* Computer Science II
+* Introduction to Game Programming with Python
+
 ### Spring 2023
 * Human-Computer Interaction/Human-AI Interaction (Special Topics)
 * Introduction to Game Programming with Python

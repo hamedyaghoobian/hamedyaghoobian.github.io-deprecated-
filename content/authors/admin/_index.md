@@ -1,6 +1,6 @@
 ---
 # Display name
-title: HAMED YAGHOOBIAN
+title: Hamed Yaghoobian
 
 # Is this the primary user of the site?
 superuser: true

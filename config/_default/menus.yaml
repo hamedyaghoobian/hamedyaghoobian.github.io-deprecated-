@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: HOME
     url: '#about'
     weight: 10
-  - name: Teaching
+  - name: PEDAGOGY
     url: 'courses/'
     weight: 20
-  - name: Publications and Presentations
+  - name: PUBLIC(ACTIONS)
     url: 'publication/'
     weight: 30  
-  - name: News
+  - name: NEWS
     url: 'news/'
     weight: 40
-  - name: CognifAI Lab
+  - name: COGNIFAI LAB
     url: 'posts/'
     weight: 50
 #   - name: Calender

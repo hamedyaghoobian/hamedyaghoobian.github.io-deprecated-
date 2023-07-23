@@ -1,5 +1,5 @@
 ---
-title: Public(actions)
+title: Public(inter)actions
 toc: false
 share: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: CognifAI Lab
+title: D-Techt Lab
 cms_exclude: true
 
 # View.
@@ -14,16 +14,15 @@ header:
   image: ""
 ---
 
-The CognifAI Lab is a small research group at Muhlenberg focused on Natural Language Processing (NLP) and Human-AI Interaction (HAII). The mission is to conduct innovative research that advances the understanding of human interactions with technology and explores the potential of AI to enhance human experience.
+The D-Techt Lab at Muhlenberg serves as a platform for studying Natural Language Processing (NLP) and Human-AI Interaction (HAII). It is a space for independent inquiry rather than a fully formed research group, intended to foster self-motivated students interested in the nexus of AI and human experience. We aim to examine how humans and technology shape each other and to scrutinize the place of AI within this interplay.
 
-Our research areas include:
+The focus of the D-Techt Lab includes:
 
 * NLP for text classification, sentiment analysis, and language modeling
-* Conversational agents
-* Human-centered design and evaluation of AI systems
-* Ethical considerations and philosophical issues related to AI and technology
+* Understanding and refining conversational agents
+* Human-focused design and evaluation of AI systems
+* Reflection on ethical considerations and philosophical matters tied to AI and technology
 
-This stream of research involves quantitative analysis and requires strong programming skills, particularly in Python. Familiarity with machine learning and artificial intelligence models is also preferred. Students who are interested in joining CognifAI Lab should be motivated, independent, and eager to learn.
+Our approach calls for a strong foundation in programming, especially in Python, and an interest in quantitative analysis. Familiarity with machine learning and AI models is beneficial. Students who consider undertaking their term-long senior projects under the guidance of the D-Techt Lab should be self-starters, ready to delve into the intricate relationship between technology and society.
 
-If you are a Muhlenberg student who is passionate about exploring the potential of AI and technology to enhance human experience, I invite you to join us at CognifAI Lab. You will have the opportunity to work on projects, develop critical research skills, and contribute to research in the field of NLP and HAII. Contact me to learn more about our research opportunities and how to get involved.
-
+If you are a Muhlenberg undergraduate in Computer Science and you're drawn to the exploration of AI, technology, and their influence on human experience, the D-Techt Lab offers a platform for your curiosity. You will independently work on insightful projects, hone your research skills, and contribute to our understanding of NLP and HAII. Reach out to learn more about how you can shape your project within the D-Techt Lab.

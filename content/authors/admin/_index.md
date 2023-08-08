@@ -40,7 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hamedyaghoobian@muhlenberg.edu'
-- icon: xmark
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/hyaghoobian
 - icon: mastodon

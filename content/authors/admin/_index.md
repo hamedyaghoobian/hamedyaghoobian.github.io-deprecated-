@@ -67,10 +67,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am an Assistant Professor of Computer Science at Muhlenberg College. My teaching and research interests lie in the interstices of Natural Language Processing and Human-Computer Interaction, primarily focusing on computer- and AI-mediated practices in everyday life. My last name is pronounced /ya-KOO-bee-un/. 
+I am an Assistant Professor of Computer Science at Muhlenberg College. My teaching and research interests lie in the interstices of Natural Language Processing and Human-Computer Interaction, primarily focusing on computer- and AI-mediated practices in everyday life. For pronunciation clarity, my last name sounds like /Yah-KOO-bee-an/. 
 
-I was born and raised in Mashhad, Iran, and currently live in Allentown, PA, with my wife. 
+Originally from Mashhad, Iran, I now reside in Allentown, PA, alongside my wife.
 
-Feel free to reach me at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or by stopping by my office in the [Trumbower Science Building](https://pathways.trexlerworks.muhlenberg.edu/items/show/15) 143 to have a chat. 
+For discussions, collaborations, or just a friendly chat, drop me an email at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or visit me in the Trumbower Science Building, room 143. 
 
-I'm shifting my primary social media presence from Twitter to Mastodon, in line with the evolving digital landscape. Join me on <a rel="me" href="https://mastodon.social/@postgrammar">Mastodon</a> for updates.
+On a side note, I'm shifting my primary social media presence from Twitter to Mastodon, in line with the evolving digital landscape. Join me on <a rel="me" href="https://mastodon.social/@postgrammar">Mastodon</a> for updates.

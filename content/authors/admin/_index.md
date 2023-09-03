@@ -40,9 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hamedyaghoobian@muhlenberg.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hyaghoobian
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@postgrammar
@@ -72,5 +69,3 @@ I am an Assistant Professor of Computer Science at Muhlenberg College. My teachi
 Originally from Mashhad, Iran, I now reside in Allentown, PA, alongside my wife.
 
 For discussions, collaborations, or just a friendly chat, drop me an email at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or visit me in the Trumbower Science Building, room 125. 
-
-On a side note, I'm shifting my primary social media presence from Twitter to Mastodon, in line with the evolving digital landscape. Join me on <a rel="me" href="https://mastodon.social/@postgrammar">Mastodon</a> for updates.

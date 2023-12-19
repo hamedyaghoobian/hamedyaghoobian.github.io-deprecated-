@@ -4,6 +4,11 @@ toc: false
 share: false
 ---
 
+### Spring 2024
+* Introduction to Data Analytics
+* Computer Science II
+* Computer Organization
+
 ## Fall 2023
 * Computer Science II
 * Introduction to Game Programming with Python

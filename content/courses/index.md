@@ -14,7 +14,7 @@ share: false
 * Introduction to Game Programming with Python
 
 ### Spring 2023
-* Human-Computer Interaction/Human-AI Interaction (Special Topics)
+* Human-AI Interaction (Special Topics)
 * Introduction to Game Programming with Python
 * Computer Organization
 

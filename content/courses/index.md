@@ -9,7 +9,7 @@ share: false
 * Computer Science II
 * Computer Organization
 
-## Fall 2023
+### Fall 2023
 * Computer Science II
 * Introduction to Game Programming with Python
 

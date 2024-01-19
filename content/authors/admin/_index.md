@@ -66,6 +66,6 @@ highlight_name: false
 ---
 I am an Assistant Professor of Computer Science at Muhlenberg College. My teaching and research interests lie in the interstices of Natural Language Processing and Human-Computer Interaction, primarily focusing on computer- and AI-mediated practices in everyday life. For pronunciation clarity, my last name sounds like /Yah-KOO-bee-an/. 
 
-Originally from Mashhad, Iran, I now reside in Allentown, PA, alongside my wife.
+I am originally from Mashhad, Iran, and currently live in Allentown, PA, with my wife.
 
 For discussions, collaborations, or just a friendly chat, drop me an email at [hamedyaghoobian@muhlenberg.edu](mailto:hamedyaghoobian@muhlenberg.edu) or visit me in the Trumbower Science Building, room 125. 

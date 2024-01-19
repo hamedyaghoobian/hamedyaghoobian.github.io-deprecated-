@@ -5,7 +5,7 @@ share: false
 ---
 
 ### Spring 2024
-* Introduction to Data Analytics
+* Introduction to Data Science
 * Computer Science II
 * Computer Organization
 

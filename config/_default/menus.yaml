@@ -16,7 +16,7 @@ main:
   - name: News
     url: 'news/'
     weight: 40
-  - name: D-Techt Lab
+  - name: +Tech Lab
     url: 'posts/'
     weight: 50
 #   - name: Calender

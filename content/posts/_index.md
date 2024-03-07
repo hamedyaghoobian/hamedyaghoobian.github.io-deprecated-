@@ -1,5 +1,5 @@
 ---
-title: +Tech Lab
+title: BRAIN Lab
 cms_exclude: true
 
 # View.
@@ -14,15 +14,23 @@ header:
   image: ""
 ---
 
-The +Tech Lab at Muhlenberg serves as a platform for studying Language Models and Human-AI Interaction (HAII). It is a space for independent inquiry rather than a fully formed research group, intended to foster self-motivated students interested in the nexus of AI and human experience. We aim to examine how humans and technology shape each other and to scrutinize the place of AI within this interplay.
+The **BRAIN - Berg Research in Artificial Intelligence and iNnovation** at Muhlenberg College stands as a dedicated lab for the study of Language Models and Human-AI Interaction (HAII). Positioned as a nucleus for independent research, it supports students with a keen interest in the intersection of AI and human experiences. The primary goal is to uncover the reciprocal influence of technology and humans and to scrutinize the role of AI within this dynamic framework.
 
-The focus of the +Tech Lab includes:
+### Research Focus
 
-* NLP for text classification, sentiment analysis, and language modeling
-* Understanding and refining conversational agents
-* Human-focused design and evaluation of AI systems
-* Reflection on ethical considerations and philosophical matters tied to AI and technology
+Research at the BRAIN lab spans several pivotal areas within artificial intelligence:
 
-Our approach calls for a strong foundation in programming, especially in Python, and an interest in quantitative analysis. Familiarity with machine learning and AI models is beneficial. Students who consider undertaking their term-long senior projects under the guidance of the +Tech Lab should be self-starters, ready to delve into the intricate relationship between humans, data, and technology. 
+- **Natural Language Processing (NLP):** The lab focuses on text classification, sentiment analysis, and language modeling.
+- **Conversational Agents:** Efforts are directed towards understanding and improving AI-driven conversational interfaces.
+- **Human-Centric AI Design:** A significant emphasis is placed on designing and evaluating AI systems that prioritize human interaction.
+- **Ethics and Philosophy of AI:** The lab also dedicates time to pondering the ethical implications and philosophical questions that arise with AI and technology.
 
-If you are a Muhlenberg undergraduate in Computer Science and you're drawn to the exploration of AI, technology, and their influence on human experience, the +Tech Lab offers a platform for your curiosity. You will independently work on insightful projects, hone your research skills, and contribute to our understanding of NLP and HAII. Reach out to learn more about how you can shape your project within the +Tech Lab.
+### Approach
+
+A robust foundation in programming, especially in Python, along with a proclivity for quantitative analysis, is essential for conducting research within the BRAIN lab. Although knowledge of machine learning and AI models is advantageous, a deep-seated curiosity about AI and its impact on society is more critical. Students interested in undertaking their term-long senior projects within this framework are encouraged to independently navigate the complex interplay between humans, data, and technology.
+
+### Participation
+
+Undergraduates from Muhlenberg College, particularly those pursuing a degree in Computer Science and intrigued by AI and its societal implications, are provided with an avenue to explore this field at the BRAIN lab. Engaging in independent projects, students have the opportunity to refine their research capabilities and contribute to the broader understanding of NLP and HAII. Individuals keen on aligning their projects with the lab's research areas are invited to reach out for more information.
+
+The lab serves as a platform for those interested in addressing the challenges and opportunities presented by AI, with the aim of contributing thoughtfully to the discipline. Engaging with this endeavor offers a chance to delve into the evolving relationship between technology, human experience, and innovation.

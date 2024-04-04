@@ -3,7 +3,7 @@ title: News
 toc: false
 share: false
 ---
-* 04/2024: Awarded the ITVS documentary fund for _Art After-Life_, in collaboration with David Romberg. See more: [itvs.org/films/art-after-life/](https://itvs.org/films/art-after-life/)
+* 04/2024: Awarded the ITVS documentary fund for _Art After-Life_, in collaboration with David Romberg. See more [here](https://itvs.org/films/art-after-life/).
 * 06/2023: Presenting an article on "_Plasticity of Data and the Problematics of Containment_" in the 2023 4S Meeting in Honolulu, HI, in November 2023. 
 * 03/2023: Organizing an open panel “_[Configuring the (w)hole: Algorithmic Systems, Endangered Ecologies, and Human Interconnectedness](https://4sonline.org/news_manager.php?page=31538)_” at the 2023 *[Society for the Social Studies of Science (4S)](https://4sonline.org/)* Meeting in Honolulu in November.
 * 08/2022: Giving a talk on _AI and Democratization of Art_ in at the [Dana Forum](https://www.muhlenberg.edu/academics/dana-scholars/introduction/) on October 17, 2022. 

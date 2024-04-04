@@ -1,5 +1,5 @@
 ---
-title: MIND Lab
+title: MIND Research Group
 cms_exclude: true
 
 # View.
@@ -14,16 +14,16 @@ header:
   image: ""
 ---
 
-The **MIND - Muhlenberg Intelligence and Neural Development** stands as a dedicated lab for the study of Language Models and Human-AI Interaction (HAII). Positioned as a nucleus for independent research, it supports students with a keen interest in the intersection of AI and human experiences. The primary goal is to uncover the reciprocal influence of technology and humans and to scrutinize the role of AI within this dynamic framework.
+The **MIND - Muhlenberg Intelligence and Neural Development** stands as a dedicated research group for the study of Language Models and Human-AI Interaction (HAII). Positioned as a nucleus for independent research, it supports students with a keen interest in the intersection of AI and human experiences. The primary goal is to uncover the reciprocal influence of technology and humans and to scrutinize the role of AI within this dynamic framework.
 
 ### Research Focus
 
-Research at the MIND lab spans several pivotal areas within artificial intelligence:
+Research at the MIND Research Group spans several pivotal areas within artificial intelligence:
 
-- **Natural Language Processing (NLP):** The lab focuses on text classification, sentiment analysis, and language modeling.
+- **Natural Language Processing (NLP):** The research group focuses on text classification, sentiment analysis, and language modeling.
 - **Conversational Agents:** Efforts are directed towards understanding and improving AI-driven conversational interfaces.
 - **Human-Centric AI Design:** A significant emphasis is placed on designing and evaluating AI systems that prioritize human interaction.
-- **Ethics and Philosophy of AI:** The lab also dedicates time to pondering the ethical implications and philosophical questions that arise with AI and technology.
+- **Ethics and Philosophy of AI:** The research group also dedicates time to pondering the ethical implications and philosophical questions that arise with AI and technology.
 
 ### Approach
 
@@ -31,6 +31,6 @@ A robust foundation in programming, especially in Python, along with a proclivit
 
 ### Participation
 
-Undergraduates from Muhlenberg College, particularly those pursuing a degree in Computer Science and intrigued by AI and its societal implications, are provided with an avenue to explore this field at the MIND lab. Engaging in independent projects, students have the opportunity to refine their research capabilities and contribute to the broader understanding of NLP and HAII. Individuals keen on aligning their projects with the lab's research areas are invited to reach out for more information.
+Undergraduates from Muhlenberg College, particularly those pursuing a degree in Computer Science and intrigued by AI and its societal implications, are provided with an avenue to explore this field at the MIND Research Group. Engaging in independent projects, students have the opportunity to refine their research capabilities and contribute to the broader understanding of NLP and HAII. Individuals keen on aligning their projects with the MIND Research Group's focus are invited to reach out for more information.
 
 The lab serves as a platform for those interested in addressing the challenges and opportunities presented by AI, with the aim of contributing thoughtfully to the discipline. Engaging with this endeavor offers a chance to delve into the evolving relationship between technology, human experience, and innovation.

@@ -7,6 +7,11 @@ share: false
 ### Spring 2024
 * Introduction to Data Science
 * Computer Science II
+* Introduction to Machine Learning (Special Topics)
+
+### Spring 2024
+* Introduction to Data Science
+* Computer Science II
 * Computer Organization
 
 ### Fall 2023

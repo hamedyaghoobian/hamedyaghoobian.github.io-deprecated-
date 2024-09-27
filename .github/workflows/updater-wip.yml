@@ -15,5 +15,5 @@ jobs:
         with:
           feed-url: https://wowchemy.com/blog/index.xml
           readme-section: news
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Correct input key
+          github_token: ${{ secrets.MY_PAT }}  # Using PAT instead of GITHUB_TOKEN
 

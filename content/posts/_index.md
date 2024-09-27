@@ -34,3 +34,18 @@ A robust foundation in programming, especially in Python, along with a proclivit
 Undergraduates from Muhlenberg College, particularly those pursuing a degree in Computer Science and intrigued by AI and its societal implications, are provided with an avenue to explore this field at the MIND Research Group. Engaging in independent projects, students have the opportunity to refine their research capabilities and contribute to the broader understanding of NLP and HAII. Individuals keen on aligning their projects with the MIND Research Group's focus are invited to reach out for more information.
 
 The lab serves as a platform for those interested in addressing the challenges and opportunities presented by AI, with the aim of contributing thoughtfully to the discipline. Engaging with this endeavor offers a chance to delve into the evolving relationship between technology, human experience, and innovation.
+
+
+### Current Projects
+
+- **FairFrame:** An evaluative framework that foregrounds and helps eliminate bias in NLP models.
+
+### Undergraduate Student Researchers
+
+- Geoffrey Levy  (Class of '27), Summer '24 -- Present
+- Andrew Franklin (Class of '25), Fall '24 -- Present
+- Giovanni Sanchez (Class of '26), Fall '24 -- Present
+
+### Alumni
+
+- Christian Johansson (Class of '23), Summer 2022

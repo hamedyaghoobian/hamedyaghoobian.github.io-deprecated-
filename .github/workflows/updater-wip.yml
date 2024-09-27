@@ -15,3 +15,4 @@ jobs:
         with:
           feed-url: https://wowchemy.com/blog/index.xml
           readme-section: news
+          token: ${{ secrets.GITHUB_TOKEN }}  # Add this line

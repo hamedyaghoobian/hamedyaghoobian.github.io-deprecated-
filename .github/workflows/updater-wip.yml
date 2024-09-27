@@ -11,7 +11,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: wowchemy/gh-action-updater@v1
+      - uses: wowchemy/gh-action-updater@v2
         with:
           feed-url: https://wowchemy.com/blog/index.xml
           readme-section: news
